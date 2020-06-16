@@ -1,0 +1,7 @@
+03:39:32.033 [main] INFO  resources.baseClass - Driver is initialized
+03:39:37.016 [main] INFO  resources.baseClass - Navigating to Home Page
+03:50:05.096 [main] INFO  resources.baseClass - Driver is initialized
+03:50:07.371 [main] INFO  resources.baseClass - Navigating to Home Page
+03:50:22.509 [main] INFO  resources.baseClass - Driver is initialized
+03:50:25.363 [main] INFO  resources.baseClass - Navigating to Login Page
+03:50:28.627 [main] INFO  resources.baseClass - NON Restricted User

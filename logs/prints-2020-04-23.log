@@ -1,0 +1,8 @@
+01:44:52.274 [main] INFO  resources.base - Driver is initialized
+01:44:54.859 [main] INFO  resources.base - Navigating to Home Page
+01:45:09.878 [main] INFO  resources.base - Driver is initialized
+01:45:12.184 [main] INFO  resources.base - Navigating to Home Page
+01:45:12.320 [main] INFO  resources.base - Successfully Validating Title Text Message
+05:01:52.119 [main] INFO  resources.baseClass - Driver is initialized
+05:01:55.037 [main] INFO  resources.baseClass - Navigating to Home Page
+05:02:14.308 [main] INFO  resources.baseClass - Driver is initialized

@@ -1,0 +1,7 @@
+06:01:06.384 [TestNG-tests-1] INFO  resources.baseClass - Driver is initialized
+06:01:11.387 [TestNG-tests-2] INFO  resources.baseClass - Navigating to Login Page
+06:01:11.481 [TestNG-tests-4] INFO  resources.baseClass - Navigating to Home Page
+06:01:11.663 [TestNG-tests-1] INFO  resources.baseClass - Navigating to Home Page
+06:01:11.774 [TestNG-tests-3] INFO  resources.baseClass - Navigating to Home Page
+06:01:16.701 [TestNG-tests-2] INFO  resources.baseClass - NON Restricted User
+06:01:19.186 [TestNG-tests-2] INFO  resources.baseClass - Navigating to Login Page
